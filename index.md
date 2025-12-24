@@ -1,7 +1,5 @@
 # Md Wali Ullah Atik
 Welcome to my personal profile website.
-# Md Wali Ullah Atik
-
 Master’s Student – International / European Business  
 Regensburg, Germany
 
@@ -15,7 +13,7 @@ I am currently seeking internships / working student / entry-level roles.
 ---
 
 ## Education
-**M.Sc. European Business Studies**  
+**MA in European Business Studies**  
 OTH Regensburg, Germany  
 10/2024 – Present
 
@@ -38,8 +36,8 @@ MM/YYYY – Present
 
 ## Skills
 - MS Excel, PowerPoint
-- Basic data analysis
-- Business research
+- Power BI
+- SAP
 
 ---
 
@@ -50,6 +48,6 @@ MM/YYYY – Present
 ---
 
 ## Contact
-📧 Email: your@email.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
-🔗 XING: https://www.xing.com/profile/yourprofile
+📧 Email: mdatik.de@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/mdwaliullahatik11
+🔗 XING: https://www.xing.com
