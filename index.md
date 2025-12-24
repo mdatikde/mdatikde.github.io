@@ -1,2 +1,55 @@
 # Md Wali Ullah Atik
 Welcome to my personal profile website.
+# Md Wali Ullah Atik
+
+Master’s Student – International / European Business  
+Regensburg, Germany
+
+---
+
+## About Me
+I am a Master’s student in European Business Studies in Germany.
+I am interested in operations, international business, and data-driven decision making.
+I am currently seeking internships / working student / entry-level roles.
+
+---
+
+## Education
+**M.Sc. European Business Studies**  
+OTH Regensburg, Germany  
+10/2024 – Present
+
+---
+
+## Experience
+**Working Student – NORDSEE**  
+Regensburg, Germany  
+MM/YYYY – Present  
+- Daily operations and customer service  
+- Process understanding in food retail
+
+---
+
+## Projects / Proof of Work
+- Master’s thesis (planned): Topic to be finalized  
+- Market analysis case study (to be added)
+
+---
+
+## Skills
+- MS Excel, PowerPoint
+- Basic data analysis
+- Business research
+
+---
+
+## Languages
+- English – Fluent  
+- German – A2 (learning, aiming for B1)
+
+---
+
+## Contact
+📧 Email: your@email.com  
+🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+🔗 XING: https://www.xing.com/profile/yourprofile
